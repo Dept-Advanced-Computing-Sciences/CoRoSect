@@ -6,7 +6,7 @@ Results from the Horizon Project CoRoSect
      <li>scripts - contains additional scripts and files
      <ul>
        <li>reachability_simulation: URDF design of robot extension and simulation scripts.</li>
-       <li>stabilization_secondary_planning_scene: ROS launch files for a secondary MoveIt environment where iterative stabilisation is performed.</li>
+       <li>stabilization_secondary_planning_scene: ROS launch files for a secondary MoveIt! environment where iterative stabilisation is performed.</li>
      </ul>
      </li>
 
